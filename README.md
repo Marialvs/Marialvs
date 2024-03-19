@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Marialvs
 - 👀 I’m interested in learn new languages and improve my programming skills.
 - 🌱 I’m currently learning English.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: By my gmail "mcac360@gmail.com".
-- 😄 Pronouns: She/Her.
-- ⚡ Fun fact: ...
+- 📫 How to reach me: mcac360@gmail.com .
 
 <!---
 Marialvs/Marialvs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
